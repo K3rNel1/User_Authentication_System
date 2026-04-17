@@ -1,5 +1,5 @@
 Ali Zubair Shah Personal Use License (AAS-PUL) v1.0 Copyright (c) 2026
-Ali Zubair Shah
+Ali Zubair Shah, Ayan Hassan Kango
 
 Permission is granted to any person obtaining a copy of this software
 and associated documentation files (the “Software”) solely for the
@@ -33,4 +33,4 @@ By using this Software, you agree to be bound by the terms of this
 license.
 
 For permissions beyond the scope of this license, contact the author:
-Ali Zubair Shah
+Ali Zubair Shah, Ayan Hassan Kango
